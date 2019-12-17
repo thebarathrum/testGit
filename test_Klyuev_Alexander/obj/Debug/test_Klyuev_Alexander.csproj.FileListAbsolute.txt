@@ -1,0 +1,11 @@
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.csprojAssemblyReference.cache
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.Auth.resources
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.Properties.Resources.resources
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.csproj.GenerateResource.cache
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.csproj.CoreCompileInputs.cache
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\bin\Debug\test_Klyuev_Alexander.exe.config
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\bin\Debug\test_Klyuev_Alexander.exe
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\bin\Debug\test_Klyuev_Alexander.pdb
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.exe
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.pdb
+D:\test_Klyuev_Alexander\test_Klyuev_Alexander\obj\Debug\test_Klyuev_Alexander.Reg.resources
